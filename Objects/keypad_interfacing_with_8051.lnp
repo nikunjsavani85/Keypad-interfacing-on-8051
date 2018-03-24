@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\keypad_interfacing.obj" 
+TO ".\Objects\keypad_interfacing_with_8051" 
+PRINT(".\Listings\keypad_interfacing_with_8051.m51") RAMSIZE(256) 
